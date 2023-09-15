@@ -1,0 +1,52 @@
+.bg-custom {
+    color: red;
+}
+
+
+
+.nav-link {
+
+    margin: 0px 8px 0px 8px;
+
+}
+
+.nav-link:focus,
+.nav-link:hover {
+    color: black !important;
+    background-color: #1abc9c;
+    border-radius: 10px;
+}
+
+
+.bg-home {
+    background-color: #1abc9c;
+    height: 80vh;
+}
+
+.line {
+    width: 90px;
+    height: 4px;
+    background-color: rgb(255, 255, 255);
+}
+
+.line2 {
+    width: 90px;
+    height: 4px;
+    background-color: rgb(0, 0, 0);
+}
+
+input:focus-visible {
+    outline: none;
+}
+
+input {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.151);
+
+}
+
+i {
+    /* width: 30px;
+    height: 30px; */
+
+
+}
